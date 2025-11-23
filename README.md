@@ -1,2 +1,2 @@
 # ECA-quant
-*Quant Everything*. I mean, ***everything***.
+*Quant* **Everything**. I mean, ***everything***.
